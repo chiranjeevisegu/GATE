@@ -1,0 +1,8 @@
+GATE DA Handbook
+
+1. Extract all files into one folder.
+2. Open index.html in your web browser.
+
+Lessons, original practice, the diagnostic, and revision work offline.
+Official past-paper PDFs and external solution links need internet access.
+Progress in this copy is stored separately from progress on the hosted site.
