@@ -2,7 +2,7 @@
 
 I’m building this handbook for my own preparation for the GATE Data Science and Artificial Intelligence (DA) paper. I wanted one place to learn a topic, work through an example, solve a question, and revisit my mistakes later. I’m sharing it in case it helps with your preparation too.
 
-**[Open the GATE DA Handbook](https://github.com/chiranjeevisegu/GATE/new/main)** · **[Download the offline ZIP]()**
+**[Open the GATE DA Handbook](https://chiranjeevisegu.github.io/GATE/)** 
 
 The hosted site is currently private. If the link asks for access, reach out to me.
 
@@ -22,7 +22,7 @@ The hosted site is currently private. If the link asks for access, reach out to 
 
 ## Start studying
 
-If you’re working out where to begin, take the [diagnostic test]() and use the results to build a study plan. If you already know your weak topic, search for it, read the lesson, and try the linked practice and past questions.
+If you’re working out where to begin, take the [diagnostic test](https://chiranjeevisegu.github.io/GATE/#exam/diagnostic) and use the results to build a study plan. If you already know your weak topic, search for it, read the lesson, and try the linked practice and past questions.
 
 For offline study, extract the ZIP and open **index.html** in your browser. Lessons and original practice work offline. Official paper PDFs and external explanations require internet access. Your progress is stored in the browser you use.
 
